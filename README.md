@@ -35,3 +35,9 @@ Then, these statistics were not updated during the tournament.
 resultatsAO2013.csv, resultatsRG2013.csv, resultatsWimbledon2013.csv and resultatsUS2013.csv are (in the same ordre) the results of the model on the Australian Open 2013, Roland-Garros 2013, Wimbledon 2013 and the US Open 2013 (tournaments of the WTA Grand Slam).
 
 With no surprise, the more data we have, the higher the accuracy. So, the model seems more accurate on "Hard" and "Clay" surface than on "Grass".
+
+
+
+History of WTA tournaments, with dates, results, number of point won on serve, on return etc.. match by match,  is available here:
+http://www.tennis-data.co.uk/
+
