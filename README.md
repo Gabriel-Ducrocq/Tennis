@@ -24,6 +24,9 @@ ausopen.R, given a WTA tournament, a list of players and the relevant data, comp
 It also computes the amount of money earned (or lost) betting on the choosen outcome.
 
 
+TableA and TableB are the O'Malley matrices, required to compute the probabilities in tennis.R.
+
+
 
 The program gathered the statistics of the 50 previous matches on a relevant surface for every player before the beginning of each tournament.
 Then, these statistics were not updated during the tournament.
